@@ -46,13 +46,19 @@ Refer pizza_sales_queries.sql to understand query logic
 Optionally modify Excel visuals to customize views
 
 ## 🧾 SQL Queries Used
-Included in `sql/pizza_sales_queries.sql`, this file covers:
+Included in `PIZZA SALES SQL QUERIES`, this file covers:
 - KPIs (Revenue, Orders, AOV)
 - Time-based Trends (hourly, daily)
 - Sales % by Category/Size
 - Top 5 & Bottom 5 Best Sellers
 
 Example:
-```sql
--- Total Revenue
-SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
+
+'''sql Query for Total Revenue
+--SELECT SUM(total_price) AS Total_Revenue FROM pizza_sales;
+
+
+## 🙋 Author
+**Akshay Pitta**  
+LinkedIn: https://www.linkedin.com/in/pittaakshay0264/
+Email: pittaakshay045@gmail.com
